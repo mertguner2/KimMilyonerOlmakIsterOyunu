@@ -1,0 +1,246 @@
+{
+"sorular": [
+
+  {
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "secenekler": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Güneş sistemindeki en büyük gezegen hangisidir?",
+    "secenekler": ["Mars", "Dünya", "Jüpiter", "Satürn"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Bir haftada kaç gün vardır?",
+    "secenekler": ["5", "6", "7", "8"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "İstiklal Marşı'nın yazarı kimdir?",
+    "secenekler": ["Namık Kemal", "Mehmet Akif Ersoy", "Yahya Kemal", "Tevfik Fikret"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Dünyanın doğal uydusu hangisidir?",
+    "secenekler": ["Mars", "Ay", "Güneş", "Venüs"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Üçgenin iç açıları toplamı kaç derecedir?",
+    "secenekler": ["90", "180", "270", "360"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi hayvan memeli değildir?",
+    "secenekler": ["Yunus", "Balina", "Yarasa", "Kertenkele"],
+    "dogru": 3,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "İnsan vücudunda kaç akciğer vardır?",
+    "secenekler": ["1", "2", "3", "4"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi sayı çift sayıdır?",
+    "secenekler": ["3", "7", "10", "15"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Türkiye'nin para birimi nedir?",
+    "secenekler": ["Euro", "Dolar", "Lira", "Sterlin"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+
+  {
+    "soru": "Hangi mevsimden sonra yaz gelir?",
+    "secenekler": ["Kış", "Sonbahar", "İlkbahar", "Yaz"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi organ kan pompalar?",
+    "secenekler": ["Akciğer", "Böbrek", "Kalp", "Mide"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Türkiye kaç coğrafi bölgeden oluşur?",
+    "secenekler": ["5", "6", "7", "8"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi renk ana renktir?",
+    "secenekler": ["Yeşil", "Mor", "Turuncu", "Kırmızı"],
+    "dogru": 3,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Bir düzinede kaç tane vardır?",
+    "secenekler": ["10", "12", "15", "20"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "secenekler": ["Venüs", "Mars", "Jüpiter", "Merkür"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi sayı asal değildir?",
+    "secenekler": ["2", "3", "5", "9"],
+    "dogru": 3,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Türkiye'nin en kalabalık ili hangisidir?",
+    "secenekler": ["Ankara", "İzmir", "İstanbul", "Bursa"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi hayvan uçamaz?",
+    "secenekler": ["Güvercin", "Kartal", "Penguen", "Serçe"],
+    "dogru": 2,
+    "zorluk": "kolay"
+  },
+  {
+    "soru": "Hangi sayı Roma rakamıyla X şeklinde yazılır?",
+    "secenekler": ["5", "10", "50", "100"],
+    "dogru": 1,
+    "zorluk": "kolay"
+  },
+
+  
+  {
+    "soru": "Türkiye'nin yüz ölçümü en büyük ili hangisidir?",
+    "secenekler": ["Konya", "Ankara", "Sivas", "Antalya"],
+    "dogru": 0,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Periyodik tabloda 'O' sembolü hangi elemente aittir?",
+    "secenekler": ["Altın", "Oksijen", "Osmiyum", "Orta"],
+    "dogru": 1,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Bir tam turun derecesi kaçtır?",
+    "secenekler": ["180", "270", "360", "450"],
+    "dogru": 2,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "DNA'nın açılımı nedir?",
+    "secenekler": [
+      "Deoksiribo Nükleik Asit",
+      "Dinamik Nükleer Alan",
+      "Doğal Nöron Ağı",
+      "Dizisel Nükleik Asit"
+    ],
+    "dogru": 0,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Hangi ülke Avrupa Birliği üyesi değildir?",
+    "secenekler": ["Almanya", "Fransa", "Norveç", "İtalya"],
+    "dogru": 2,
+    "zorluk": "orta"
+  },
+
+  {
+    "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+    "secenekler": [
+      "Ege - Akdeniz",
+      "Karadeniz - Marmara",
+      "Marmara - Ege",
+      "Karadeniz - Ege"
+    ],
+    "dogru": 1,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Hangi gezegen halkalarıyla ünlüdür?",
+    "secenekler": ["Mars", "Venüs", "Satürn", "Neptün"],
+    "dogru": 2,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Bir sayının %25'i neye eşittir?",
+    "secenekler": ["Yarısına", "Çeyreğine", "Üçte birine", "Beşte birine"],
+    "dogru": 1,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Cumhuriyet hangi yılda ilan edilmiştir?",
+    "secenekler": ["1919", "1920", "1923", "1938"],
+    "dogru": 2,
+    "zorluk": "orta"
+  },
+  {
+    "soru": "Hangi bilim dalı canlıları inceler?",
+    "secenekler": ["Fizik", "Kimya", "Biyoloji", "Jeoloji"],
+    "dogru": 2,
+    "zorluk": "orta"
+  },
+
+ 
+  {
+    "soru": "Osmanlı Devleti'nde ilk kağıt para hangi padişah döneminde basılmıştır?",
+    "secenekler": [
+      "II. Mahmud",
+      "Abdülmecid",
+      "Abdülaziz",
+      "II. Abdülhamid"
+    ],
+    "dogru": 1,
+    "zorluk": "zor"
+  },
+  {
+    "soru": "Euler sayısı yaklaşık olarak kaçtır?",
+    "secenekler": ["2.14", "2.71", "3.14", "1.61"],
+    "dogru": 1,
+    "zorluk": "zor"
+  },
+  {
+    "soru": "İlk bilgisayar programcısı olarak kabul edilen kişi kimdir?",
+    "secenekler": [
+      "Alan Turing",
+      "Ada Lovelace",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "dogru": 1,
+    "zorluk": "zor"
+  },
+  {
+    "soru": "Hangi element periyodik tabloda en yüksek atom numarasına sahiptir?",
+    "secenekler": ["Oganesson", "Uranium", "Plütonyum", "Neptünyum"],
+    "dogru": 0,
+    "zorluk": "zor"
+  },
+  {
+    "soru": "Dünya'nın en derin noktası hangisidir?",
+    "secenekler": [
+      "Mariana Çukuru",
+      "Bermuda Çukuru",
+      "Tonga Çukuru",
+      "Java Çukuru"
+    ],
+    "dogru": 0,
+    "zorluk": "zor"
+  }
+]
+}
