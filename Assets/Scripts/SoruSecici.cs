@@ -77,7 +77,7 @@ public class SoruSecici : MonoBehaviour
     {
         if (cevapVerildi || !gamePanel.activeSelf || sureDurdu) return;
 
-        if (aktifIndex < 7) // İlk 7 soruda süre var
+        if (aktifIndex < 7) 
         {
             kalanSure -= Time.deltaTime;
             sureText.text = "Süre: " + Mathf.Ceil(kalanSure);
@@ -101,7 +101,7 @@ public class SoruSecici : MonoBehaviour
         string yol = Path.Combine(Application.streamingAssetsPath, "sorular.json");
         string jsonVerisi = "";
 
-        if (yol.Contains("://") || yol.Contains(":///")) // Android/WebGL uyumu
+        if (yol.Contains("://") || yol.Contains(":///")) 
         {
             UnityWebRequest www = UnityWebRequest.Get(yol);
             yield return www.SendWebRequest();
